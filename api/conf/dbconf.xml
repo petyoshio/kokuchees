@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<dbcofigration>
+    <dbhost>127.0.0.1</dbhost>
+    <dbuser>root</dbuser>
+    <dbpass></dbpass>
+    <dbusedb>kokuchees</dbusedb>
+</dbcofigration>
